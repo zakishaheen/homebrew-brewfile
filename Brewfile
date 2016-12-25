@@ -37,6 +37,7 @@ cask "vlc"
 # commandline tools
 tap 'homebrew/core'
 brew "openssl"
+brew "zsh"
 brew "boost"
 brew "git"
 brew "freetype"
