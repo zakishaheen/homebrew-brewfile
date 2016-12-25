@@ -32,7 +32,7 @@ cask "skitch"
 cask "skype"
 cask "teamviewer"
 cask "vlc"
-
+cask "hazel"
 
 # commandline tools
 tap 'homebrew/core'
