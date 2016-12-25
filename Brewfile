@@ -33,6 +33,7 @@ cask "skype"
 cask "teamviewer"
 cask "vlc"
 cask "hazel"
+cask "sqlworkbenchj"
 
 # commandline tools
 tap 'homebrew/core'
