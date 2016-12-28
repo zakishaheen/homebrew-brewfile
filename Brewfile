@@ -62,7 +62,7 @@ mas 'Evernote', id: 406056744
 mas 'Kindle', id: 405399194
 mas 'iMovie', id: 408981434
 mas 'Keynote', id: 409183694
-mas 'Wunderlist', id: 410628904
+# mas 'Wunderlist', id: 410628904
 mas 'Pocket', id: 568494494
 mas 'Pages', id: 409201541
 mas 'Reeder', id: 880001334
@@ -70,6 +70,7 @@ mas 'Textual', id: 896450579
 mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'MindNode', id: 992076693
 mas 'Numbers', id: 409203825
+mas 'Things', id: 407951449
 
 # Games
 
